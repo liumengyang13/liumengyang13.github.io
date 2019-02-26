@@ -16,7 +16,7 @@ Recent Professional Activities
 
 Publications
 ======
-* ***Mengyang Liu***, Yiqun Liu, Jiaxin Mao, Cheng Luo and Shaoping Ma. Towards Designing Better Session Search Evaluation Metrics. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018 Best Short Paper Honorable Mention**）.
+* ***Mengyang Liu***, Yiqun Liu, Jiaxin Mao, Cheng Luo and Shaoping Ma. Towards Designing Better Session Search Evaluation Metrics. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018 Best Short Paper Honorable Mention**).
 * ***Mengyang Liu***, Yiqun Liu, Jiaxin Mao, Cheng Luo, Min Zhang and Shaoping Ma. "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction. The Web Conference 2018 (**WWW 2018**).
 * ***Mengyang Liu***, Cheng Luo, Yiqun Liu, Min Zhang, and Shaoping Ma. User Preference Prediction in Mobile Search. The 23rd China Conference on Information Retrieval (**CCIR2017**).
 
