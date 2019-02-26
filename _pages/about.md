@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
+I am now a second year Master student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
 
 Recent Professional Activities
 ======
-* I serve as PC member of [SIGIR 2019](http://sigir.org/sigir2019/).
-* Our paper ***"Evaluating Web Search with a Bejeweled Player Model"*** won the **Best Student Paper Award** at [SIGIR 2017](http://sigir.org/sigir2017/)!
+* Our paper ***"Towards Designing Better Session Search Evaluation Metrics"*** won the **Best Short Paper Honorable Mention** at [SIGIR 2018](http://sigir.org/sigir2018/)!
 
 Publications
 ======
-* Yunqiu Shao, Yiqun Liu, ***Fan Zhang***, Min Zhang and Shaoping Ma. On Annotation Methodologies for Image Search Evaluation. Accepted by ACM Transactions on Information Systems (**TOIS**).
-* ***Fan Zhang***, Ke Zhou, Yunqiu Shao, Cheng Luo, Min Zhang and Shaoping Ma. How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search? The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018**).
-* ***Fan Zhang***, Yiqun Liu, Xin Li, Min Zhang, Yinghui Xu and Shaoping Ma. Evaluating Web Search with a Bejeweled Player Model. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017 Best Student Paper Award**).
-* Cheng Luo, Yiqun Liu, Tetsuya Sakai, ***Fan Zhang***, Min Zhang and Shaoping Ma. Evaluating Mobile Search with Height-Biased Gain. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017**).
-* Cheng Luo, Yiqun Liu, Tetsuya Sakai, Ke Zhou, ***Fan Zhang***, Xue Li and Shaoping Ma. Does Document Relevance Affect the Searcher’s Perception of Time? The Tenth ACM International Conference on Web Search and Data Mining (**WSDM 2017**).
-* Cheng Luo, Xue Li, Yiqun Liu, Tetsuya Sakai, ***Fan Zhang***, Min Zhang and Shaoping Ma. Investigating Users’ Time Perception during Web Search. The 2nd ACM SIGIR Conference on Human Information Interaction & Retrieval (**CHIIR 2017**).
-* Cheng Luo, ***Fan Zhang***, Xue Li, Yiqun Liu, Min Zhang, Shaoping Ma. Manipulating Time Perception of Web Search Users. First ACM SIGIR Conference on Human Information Interaction and Retrieval (**CHIIR 2016**).
+* ***Mengyang Liu***, Yiqun Liu, Jiaxin Mao, Cheng Luo and Shaoping Ma. Towards Designing Better Session Search Evaluation Metrics. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018 Best Short Paper Honorable Mention**）.
+* ***Mengyang Liu***, Yiqun Liu, Jiaxin Mao, Cheng Luo, Min Zhang and Shaoping Ma. "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction. The Web Conference 2018 (**WWW 2018**).
+* ***Mengyang Liu***, Cheng Luo, Yiqun Liu, Min Zhang, and Shaoping Ma. User Preference Prediction in Mobile Search. The 23rd China Conference on Information Retrieval (**CCIR2017**).
+
