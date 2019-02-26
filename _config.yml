@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengyang Liu"
 title_separator          : "-"
 name                     : &name "Mengyang Liu"
-description              : &description "Ph.D. student at Tsinghua University"
+description              : &description "Master student at Tsinghua University"
 url                      : https://liumengyang13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liumengyang13.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "张帆"
-  avatar           : "fan.jpg"
-  bio              : "Ph.D. student at Tsinghua University"
+  name             : "刘梦旸"
+  avatar           : "liu.jpg"
+  bio              : "Master student at Tsinghua University"
   location         : "Beijing, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=UIJxhUsAAAAJ"
-  email            : "frankyzf94@gmail.com"
+  googlescholar    : 
+  email            : "liumengyang13@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "frankyZhang"
+  github           : "liumengyang13"
   google_plus      :
   keybase          :
   instagram        :
